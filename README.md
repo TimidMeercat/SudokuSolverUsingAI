@@ -27,6 +27,6 @@ python main.py -i <path-to-sudoku-image>
 ## Results
 
 After following are few examples of the output after executing the code.
-![1.png](Results%2F1.png)
+![1.png](Results/1.png)
 
-![2.png](Results%2F2.png)
+![2.png](Results/2.png)
